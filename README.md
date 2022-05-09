@@ -1,6 +1,6 @@
-# Year 12 Major
+# Major Work
 - Student: `NAME_HERE`
-- Class: SDD12
+- Class: SDD
 - Year: 2022
 
 <!-- Feel free to write whatever notes, logs, info below here! -->
